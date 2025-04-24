@@ -75,4 +75,5 @@ Run the following in Stata:
 
 ```stata
 . samplesizegen , popsize(2000) conflevel(0.95) margin(0.05) proportion(0.5)
+```
 ---
